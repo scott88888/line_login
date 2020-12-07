@@ -1,7 +1,7 @@
+
 注意事項
 
 1.請在config.php修改頻道參數
-
 <?php
 //設定值
 define("CLIENT_ID", '1655278629');
@@ -14,3 +14,5 @@ define("SCOPE", 'openid%20profile%20email');//授權範圍以%20分隔 可以有
 
 3.PHP版本要7.0以上
 
+4.以上資料引用https://github.com/suffixbig/line_login
+此為私人學習紀錄 請參考原作者
